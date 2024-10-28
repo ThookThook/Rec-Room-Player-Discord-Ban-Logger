@@ -4,6 +4,9 @@ This repository is a automatic ban log creator for any situation that requires y
 
 This program runs on a web browser bookmarklet for maxinum compatability of platforms!
 
+**🚨THIS PROGRAM WILL AUTOMATICALLY COPY & PASTE THE FINASL OUTPUT TO CLIPBOARD IF ON PC (tested on windows chrome)
+      THAT MAY NOT WORK IF YOU ARE ON MOBILE WHIC WOULD MEAN YOU WOULD NEED TO COPY AND PASTE THE FINAL OUTPUT MANUALLY ONE WAY OR ANOTHER🚨**
+
 The original use and reason for this program existing was to be used for logging bans from the game [Rec Room](https://recroom.com/) and is meant to be used that way (as seen with the name of this repositiory) to be inserted into discord..
 This means that this program uses a bunch of Rec Room's (rec net) APIs and is made with the assumption that you are using it that way.
 **BUT** you can modify the program how ever you want to to be utilized in any other application you see fit. (If you run or are apart of the staff team of a RR game and you use a system that log bans in discord, this base program will be very convenient and useful😊)
