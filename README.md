@@ -4,7 +4,7 @@ This repository is a automatic ban log creator for any situation that requires y
 
 This program runs on a web browser bookmarklet for maxinum compatability of platforms!
 
-**🚨THIS PROGRAM WILL AUTOMATICALLY COPY & PASTE THE FINASL OUTPUT TO CLIPBOARD IF ON PC (tested on windows chrome)
+**🚨THIS PROGRAM WILL AUTOMATICALLY COPY & PASTE THE FINAL OUTPUT TO CLIPBOARD IF ON PC (tested on windows chrome)
       THAT MAY NOT WORK IF YOU ARE ON MOBILE WHICH WOULD MEAN YOU WOULD NEED TO COPY AND PASTE THE FINAL OUTPUT MANUALLY ONE WAY OR ANOTHER🚨**
 
 The original use and reason for this program existing was to be used for logging bans from the game [Rec Room](https://recroom.com/) and is meant to be used that way (as seen with the name of this repositiory) to be inserted into discord..
