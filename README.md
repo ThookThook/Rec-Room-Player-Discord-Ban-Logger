@@ -1,6 +1,6 @@
 # Rec-Room-Player-Discord-Ban-Logger
 
-This repository is a automatic ban log creator for any situation that requires youn to manually log bans somewhere from any game, platform, or anyother situation!
+This repository is a automatic ban log creator for any situation that requires you to manually log bans somewhere from any game, platform, or anyother situation!
 
 This program runs on a web browser bookmarklet for maxinum compatability of platforms!
 
